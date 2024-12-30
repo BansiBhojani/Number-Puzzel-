@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200" tools:ignore="ResourceCycle">@color/purple_200</color>
+    <color name="purple_500">#18FFFF</color>
+    <color name="purple_700">#000000</color>
+    <color name="teal_200">#8F1DA2</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
